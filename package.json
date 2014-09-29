@@ -1,0 +1,14 @@
+{
+  "name": "abstract-interface",
+  "version": "1.0.0",
+  "description": "declare well-defined type-checked interfaces in javascript",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kepzorz",
+  "license": "ISC"
+}
